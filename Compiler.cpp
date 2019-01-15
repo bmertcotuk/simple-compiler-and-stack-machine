@@ -246,6 +246,3 @@ int main(int argc, char *argv[]) {					// exe, file input
 
 	return 0;
 }
-
-//for(int i=0; i<tokens.size(); i++)
-//	output << tokens[i] << " ";
